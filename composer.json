@@ -1,0 +1,12 @@
+{
+  "name": "asbragax/picpay-sdk-php",
+  "autoload": {
+    "psr-4": {
+      "PicPay\\": "src/PicPay/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "ext-curl": "*"
+  }
+}
