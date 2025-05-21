@@ -1,8 +1,9 @@
 {
-  "name": "asbragax/picpay-sdk-php",
+"name": "asbragax/picpay-sdk-php",
+"description": "SDK para integração com PicPay em PHP 8+",
   "autoload": {
     "psr-4": {
-      "PicPay\\": "src/PicPay/"
+      "PicPay\\": "src/"
     }
   },
   "require": {
